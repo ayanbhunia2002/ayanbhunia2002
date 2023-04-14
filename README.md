@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Bhunia</h1>
 <h3 align="center">A passionate about Coding</h3>
-<img align="right" alt = "coding" width = "400" src= "https://dribbble.com/shots/16116886-Data-Inform-Illustration-Animation-Gif-Json">
+<img align="right" alt = "coding" width = "400" src= "[https://dribbble.com/shots/16116886-Data-Inform-Illustration-Animation-Gif-Json/attachments/7969129?mode=media](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanbhunia2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayanbhunia2002" /> </p>
 
