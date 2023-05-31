@@ -65,13 +65,13 @@
       <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanbhunia2002&show_icons=true&locale=en&layout=compact&theme=highcontrast"  alt="ayanbhunia2002" />
     </a>
     <a href="https://github.com/ayanbhunia2002/github-readme-stats" title="Go to Source">
-      <img align="right" width=470 src="https://github-readme-stats.vercel.app/api?username=ayanbhunia2002&show_icons=true&locale=en&count_private=true&theme=codeSTACKr" alt="ayanbhunia2002" />
+      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=ayanbhunia2002&show_icons=true&locale=en&count_private=true&theme=codeSTACKr" alt="ayanbhunia2002" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/ayanbhunia2002/github-readme-stats" title="Go to Source">
-      <img width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanbhunia2002&theme=neon-dark" alt="ayanbhunia2002" />
+      <img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanbhunia2002&theme=neon-dark" alt="ayanbhunia2002" />
     </a>
   </div>
   </p>
