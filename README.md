@@ -48,9 +48,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/ayan-bhunia)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ayanbhunia2002)
 
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/ayanbhunia2002)
-[![CodeChef Badge](https://img.shields.io/static/v1?style=flat&message=CodeChef&color=1F8ACB&logo=CodeChef&logoColor=FFFFFF&label=)](https://www.codechef.com/users/ayanbhunia2002)
-[![GeeksforGeeks Badge](https://img.shields.io/static/v1?style=flat&message=GeeksforGeeks&color=1F8ACB&logo=GeeksforGeeks&logoColor=FFFFFF&label=)](https://auth.geeksforgeeks.org/user/bhuniaayan2002)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/ayanbhunia2002)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-4a4a4a?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ayanbhunia2002)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bhuniaayan2002)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bhuniaayan2002)
 
 <br>
