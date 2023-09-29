@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayanbhunia2002/ayanbhunia2002/main/git2.webp" alt="gif1">
+</div>
+
 <h1 align="center">Hi there👋 , I'm Ayan Bhunia</h1>
 <h3 align="center">passionate about Coding</h3>
 <h3 align="center">
@@ -6,15 +10,15 @@
   </a>
 </h3>
 
-![Profile views](https://gpvc.arturio.dev/ayanbhunia2002)
+![](https://komarev.com/ghpvc/?username=ayanbhunia2002)
 
 - 👨‍🎓 currently pursuing B.Tech (CSE) in ITER, SOA University
 - 🌱 I’m currently learning **Spring Boot**
-- 👯 I’m looking to collaborate on **projects based on Java**
+- 👯 looking to collaborate on **projects based on Java**
 - 💬 Ask me about **Java, Web Development**
 - 📫 How to reach me: bhuniaayan2002@gmail.com 😀
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact **Life gives you 2nd chance**
+- ⚡ Fun fact **Failure is success in progress**
 
 <br>
 
