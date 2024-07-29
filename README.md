@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there👋 , I'm Ayan Bhunia</h1>
-<h3 align="center">passionate about Coding</h3>
+<h3 align="center">Passionate about Coding</h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!&center=true&size=30">
@@ -12,13 +12,13 @@
 
 ![](https://komarev.com/ghpvc/?username=ayanbhunia2002)
 
-- 👨‍🎓 currently pursuing B.Tech (CSE) in ITER, SOA University
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 Expertise in **Spring Boot**; Currently learning **Generative AI**
 - 👯 looking to collaborate on **projects based on Java**
-- 💬 Ask me about **Java, Web Development**
+- 💬 Ask me about **Java, Web Development, GEN AI**
+- 👨‍🎓 Graduated with B.Tech (CSE) from ITER, SOA University.
 - 📫 How to reach me: bhuniaayan2002@gmail.com 😀
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact **Failure is success in progress**
+- ⚡ Fun fact: **Failure is success in progress**
 
 <br>
 
@@ -27,23 +27,29 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 - 🌐 &nbsp;
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Servlet](https://img.shields.io/badge/-Servlet-333333?style=flat&logo=java)
+  ![JSP](https://img.shields.io/badge/-JSP-333333?style=flat&logo=java)
+  ![Generative AI](https://img.shields.io/badge/-Generative%20AI-333333?style=flat&logo=ai)
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=chain)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
   ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=pl/sql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![SpringToolSuite4](https://img.shields.io/badge/-SpringToolSuite4-333333?style=flat&logo=SpringToolSuite4&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 <br>
 
@@ -52,7 +58,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/ayan-bhunia)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ayanbhunia2002)
 
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/)
+[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/ayanbhunia2002)
 [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-4a4a4a?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bhuniaayan2002)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bhuniaayan2002)
